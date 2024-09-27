@@ -2,9 +2,7 @@
 
 <!--START_SECTION:waka-->
 
-```rust
-From: 24 September 2024 - To: 25 September 2024
-
+```txt
 Total Time: 34 mins
 
 YAML       19 mins         >>>>>>>>>>>>>>-----------   54.84 %
