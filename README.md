@@ -5,7 +5,7 @@
 ```txt
 Total Time: 88 hrs 52 mins
 
-JavaScript   77 hrs 10 mins  >>>>>>>>>>>>>>>>>>>>>>---   86.83 %
+JavaScript   77 hrs 10 mins  >>>>>>>>>>>>>>>>>>>>>>---   86.82 %
 HTML         4 hrs 21 mins   >------------------------   04.91 %
 JSON         1 hr 53 mins    >------------------------   02.13 %
 Python       1 hr 35 mins    -------------------------   01.80 %
