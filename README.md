@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 
-```python
+```rust
 From: 24 September 2024 - To: 03 February 2025
 
 Total Time: 156 hrs 21 mins
