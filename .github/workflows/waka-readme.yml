@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: dean10042008
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
@@ -19,3 +19,4 @@ jobs:
           TIME_RANGE: all_time
           LANG_COUNT: 10
           BLOCKS: ->
+          SHOW_TITLE: true
