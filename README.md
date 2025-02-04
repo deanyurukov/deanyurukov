@@ -1,4 +1,20 @@
 # dean10042008
 
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
+<!--START_SECTION:waka-->
+
+```txt
+Total Time: 153 hrs 45 mins
+
+JavaScript   129 hrs 13 mins >>>>>>>>>>>>>>>>>>>>>----   84.04 %
+HTML         9 hrs 5 mins    >------------------------   05.92 %
+CSS          7 hrs 51 mins   >------------------------   05.11 %
+JSON         2 hrs 54 mins   -------------------------   01.89 %
+Python       1 hr 37 mins    -------------------------   01.06 %
+Text         1 hr 16 mins    -------------------------   00.83 %
+YAML         35 mins         -------------------------   00.39 %
+Markdown     30 mins         -------------------------   00.33 %
+Git Config   17 mins         -------------------------   00.19 %
+C#           12 mins         -------------------------   00.13 %
+```
+
+<!--END_SECTION:waka-->
