@@ -18,7 +18,7 @@ jobs:
           SHOW_MASKED_TIME: true
           TIME_RANGE: all_time
           LANG_COUNT: 10
-          CODE_LANG: python
+          CODE_LANG: rust
           BLOCKS: ->
           SHOW_TITLE: true
           CUSTOM_TEXT: "⏳ Tracking since 25-09-2024"
